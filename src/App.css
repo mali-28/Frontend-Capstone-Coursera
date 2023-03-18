@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.grid {
+  display: grid;
+  /* grid-template-columns: repeat(auto-fill, minmax(200px, 1fr) ) ; */
+  /* background-color: red;
+  place-items: center;
+  height: 80px;
+  */
+}
