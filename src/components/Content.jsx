@@ -8,7 +8,7 @@ export default function Content() {
                     <h1 className='text-yellow-400 text-4xl font-serif'>Little Lemon</h1>
                     <h5 className='text-2xl text-white'>Chicago</h5>
                     <p className='text-lg mt-2  text-white'>We are a family owned Medditerranean restaurant, focused on triditional recipes served with a modern twist.</p>
-                    <button class="bg-yellow-500 my-2 hover:bg-yellow-700 text-black font-bold py-2 px-4 rounded">
+                    <button className="bg-yellow-500 my-2 hover:bg-yellow-700 text-black font-bold py-2 px-4 rounded">
                         Reserve a Table
                     </button>
                 </div>
