@@ -1,5 +1,4 @@
 
-import { BrowserRouter } from 'react-router-dom';
 import './App.css';
 import { DetailsProvider } from './hooks/useDetails';
 import All from './routes/All';
@@ -7,7 +6,7 @@ import All from './routes/All';
 function App() {
   return (
     <>
-      <DetailsProvider>
+    <DetailsProvider>
       <All/>
       </DetailsProvider>
     </>
